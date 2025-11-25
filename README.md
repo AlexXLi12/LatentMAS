@@ -117,7 +117,7 @@ cd LatentMAS
 ### 2. Repository Structure
 
 ```
-LatentMAS/src/
+LatentMAS/
 │── run.py                 # Main entry for experiments
 │── models.py              # Wrapper for HF + vLLM + latent realignment
 │── methods/
