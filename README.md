@@ -232,6 +232,6 @@ CUDA_VISIBLE_DEVICES=0,1 python run.py --method latent_mas --model_name Qwen/Qwe
 }
 ```
 
-## Ackowledgement 
+## 🤝 Ackowledgement 
 
 This code is partially based on the amazing work of [vLLM](https://github.com/vllm-project/vllm).
